@@ -5,7 +5,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("C:\\Users\\Tomek\\Desktop\\pli\\waxon\\waxon-slider-demo\\.cache\\dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("C:\\Users\\Tomek\\Desktop\\pli\\waxon\\waxon-slider-demo\\src\\pages\\404.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("C:\\Users\\Tomek\\Desktop\\pli\\waxon\\waxon-slider-demo\\src\\pages\\index.js"))),
   "component---src-template-archive-js": hot(preferDefault(require("C:\\Users\\Tomek\\Desktop\\pli\\waxon\\waxon-slider-demo\\src\\template\\archive.js"))),
